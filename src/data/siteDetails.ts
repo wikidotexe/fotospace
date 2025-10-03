@@ -3,7 +3,7 @@ export const siteDetails = {
   siteUrl: "https://fotospace.my.id",
   metadata: {
     title: "FotoSpace",
-    description: "Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.",
+    description: "FotoSpace menghadirkan solusi cloud sederhana dan aman untuk menyimpan, mengelola, serta berbagi foto dan file dengan mudah.",
   },
   language: "en-us",
   locale: "en-US",
