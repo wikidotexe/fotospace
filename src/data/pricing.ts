@@ -1,37 +1,19 @@
 import { IPricing } from "@/types";
 
 export const tiers: IPricing[] = [
-    {
-        name: 'Starter',
-        price: 29,
-        features: [
-            'Basic cloud integration',
-            'Up to 5 team members',
-            '20GB storage',
-            'Email support',
-        ],
-    },
-    {
-        name: 'Pro',
-        price: 99,
-        features: [
-            'Advanced cloud integration',
-            'Up to 20 team members',
-            '100GB storage',
-            'Priority email & phone support',
-            'Advanced analytics',
-        ],
-    },
-    {
-        name: 'Enterprise',
-        price: 'Custom',
-        features: [
-            'Full cloud integration',
-            'Unlimited team members',
-            'Unlimited storage',
-            '24/7 dedicated support',
-            'Custom solutions',
-            'On-site training',
-        ],
-    },
-]
+  {
+    name: "Basic",
+    price: "Rp 25.000",
+    features: ["50 GB storage", "Upload foto & video", "Akses dari web & mobile", "Sinkronisasi otomatis"],
+  },
+  {
+    name: "Standard",
+    price: "Rp 60.000",
+    features: ["200 GB storage", "Semua fitur Basic", "Album bersama keluarga/teman", "Backup otomatis"],
+  },
+  {
+    name: "Premium",
+    price: "Rp 120.000",
+    features: ["1 TB storage", "Semua fitur Standard", "Akses multi-device tanpa batas", "Sharing private & public link"],
+  },
+];

@@ -1,6 +1,6 @@
 export const ctaDetails = {
-    heading: 'Join Over 1 Million Users To Transform Your Finances',
-    subheading: 'Your journey to financial freedom starts here. Download Finwise today and take the first step towards a brighter financial future!',
-    appStoreUrl: '#',
-    googlePlayUrl: '#'
-}
+  heading: "Mulai Kelola Foto & File dengan Mudah",
+  subheading: "Simpan, bagikan, dan akses semua file Anda kapan saja dengan aman. Coba FotoSpace sekarang dan rasakan bedanya!",
+  appStoreUrl: "https://apps.apple.com/us/app/immich/id1613945652",
+  googlePlayUrl: "https://play.google.com/store/apps/details?id=app.alextran.immich&hl=en",
+};

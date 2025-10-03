@@ -2,24 +2,24 @@ import { IFAQ } from "@/types";
 import { siteDetails } from "./siteDetails";
 
 export const faqs: IFAQ[] = [
-    {
-        question: `Is ${siteDetails.siteName} secure?`,
-        answer: 'Absolutely. We use bank-level encryption to protect your data and never store your login information. Plus, our biometric authentication adds an extra layer of security.',
-    },
-    {
-        question: `Can I use ${siteDetails.siteName} on multiple devices?`,
-        answer: 'Absolutely! Your Finwise account syncs seamlessly across all your devices - smartphone, tablet, and computer.',
-    },
-    {
-        question: 'Can I connect all my bank accounts?',
-        answer: `Yes! ${siteDetails.siteName} supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.`
-    },
-    {
-        question: 'Do I need any financial expertise to use the investing features?',
-        answer: 'Not at all! Our expert-curated portfolios and educational resources make investing accessible to everyone, regardless of experience level.',
-    },
-    {
-        question: 'What if I need help using the app?',
-        answer: 'Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Finwise.'
-    }
+  {
+    question: `Apakah ${siteDetails.siteName} aman?`,
+    answer: "Tentu saja. Kami menggunakan enkripsi tingkat tinggi untuk melindungi semua data Anda, serta memastikan privasi file pribadi dan bisnis tetap terjaga.",
+  },
+  {
+    question: `Bisakah saya menggunakan ${siteDetails.siteName} di banyak perangkat?`,
+    answer: "Ya, Anda bisa FotoSpace dapat diakses dari smartphone, tablet, dan komputer dengan sinkronisasi otomatis.",
+  },
+  {
+    question: "Apakah saya bisa berbagi file dengan orang lain?",
+    answer: `Tentu ${siteDetails.siteName} memungkinkan Anda untuk berbagi file melalui link privat maupun publik dengan mudah dan aman.`,
+  },
+  {
+    question: "Apakah ada batasan kapasitas penyimpanan?",
+    answer: "Tidak. Anda bisa memilih paket sesuai kebutuhan mulai dari 50GB, 200GB, hingga 1TB dengan harga terjangkau.",
+  },
+  {
+    question: "Bagaimana jika saya membutuhkan bantuan?",
+    answer: "Tim support kami siap membantu melalui email dan chat. Kami juga menyediakan panduan lengkap dan tutorial agar Anda bisa memaksimalkan fitur FotoSpace",
+  },
 ];
