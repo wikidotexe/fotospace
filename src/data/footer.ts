@@ -17,10 +17,10 @@ export const footerDetails: {
       text: "Pricing",
       url: "#pricing",
     },
-    {
-      text: "Testimonials",
-      url: "#testimonials",
-    },
+    // {
+    //   text: "Testimonials",
+    //   url: "#testimonials",
+    // },
   ],
   email: "info@fotospace.my.id",
   telephone: "0895330931423",
