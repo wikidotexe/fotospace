@@ -14,7 +14,7 @@ export default function WhatsAppWidget() {
     {
       name: "Support",
       number: "62895330931423",
-      message: "Hai, saya butuh bantuan teknis.",
+      message: "Hai, saya butuh bantuan teknis FotoSpace.",
     },
   ];
 
