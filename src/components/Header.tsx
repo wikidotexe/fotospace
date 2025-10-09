@@ -37,7 +37,7 @@ const Header: React.FC = () => {
               </li>
             ))}
             <li>
-              <Link href="https://fotospace.wikidotexe.xyz/" target="_blank" className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors">
+              <Link href="https://fotospace.my.id/" target="_blank" className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors">
                 Login Web
               </Link>
             </li>
@@ -73,7 +73,7 @@ const Header: React.FC = () => {
               </li>
             ))}
             <li>
-              <Link href="https://fotospace.wikidotexe.xyz" target="_blank" className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit" onClick={toggleMenu}>
+              <Link href="https://fotospace.my.id/" target="_blank" className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit" onClick={toggleMenu}>
                 Login Web
               </Link>
             </li>
