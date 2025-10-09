@@ -58,7 +58,7 @@ export const benefits: IBenefit[] = [
     imageSrc: "/images/mockup-2.webp",
   },
   {
-    title: "Bank-Grade Security",
+    title: "Priority-Grade Security",
     description: "Keamanan data Anda adalah prioritas utama kami. Semua file terenkripsi dan hanya Anda yang bisa mengaksesnya.",
     bullets: [
       {
