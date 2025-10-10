@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
         className="md:text-center text-foreground-accent px-6"
         style={{ marginTop: "4rem" }} // bisa disesuaikan: 2rem, 2.5rem, dll
       >
-        <p>Copyright &copy; {new Date().getFullYear()} All rights reserved - PT Teknologi Kreasi Digital.</p>
+        <p>Copyright &copy; {new Date().getFullYear()} All rights reserved - FotoSpace.</p>
       </div>
     </footer>
   );
