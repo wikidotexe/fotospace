@@ -59,7 +59,7 @@ export const benefits: IBenefit[] = [
   },
   {
     title: "Priority-Grade Security",
-    description: "Keamanan data Anda adalah prioritas utama kami. Semua file terenkripsi dan hanya Anda yang bisa mengaksesnya.",
+    description: "Keamanan data Anda adalah prioritas utama kami. Semua foto terenkripsi dan hanya Anda yang bisa mengaksesnya.",
     bullets: [
       {
         title: "End-to-End Encryption",

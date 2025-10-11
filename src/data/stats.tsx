@@ -7,7 +7,7 @@ export const stats: IStats[] = [
   {
     title: "Mudah",
     icon: <BsBarChartFill size={34} className="text-blue-500" />,
-    description: "Kelola file dan foto Anda dengan cepat tanpa ribet.",
+    description: "Kelola foto dan album Anda dengan cepat tanpa ribet.",
   },
   {
     title: "Aman",

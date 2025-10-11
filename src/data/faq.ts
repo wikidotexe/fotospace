@@ -4,15 +4,15 @@ import { siteDetails } from "./siteDetails";
 export const faqs: IFAQ[] = [
   {
     question: `Apakah ${siteDetails.siteName} aman?`,
-    answer: "Tentu saja. Kami menggunakan enkripsi tingkat tinggi untuk melindungi semua data Anda, serta memastikan privasi file pribadi dan bisnis tetap terjaga.",
+    answer: "Tentu saja. Kami menggunakan enkripsi tingkat tinggi untuk melindungi semua data Anda, serta memastikan privasi foto pribadi dan bisnis tetap terjaga.",
   },
   {
     question: `Bisakah saya menggunakan ${siteDetails.siteName} di banyak perangkat?`,
     answer: "Ya, Anda bisa FotoSpace dapat diakses dari smartphone, tablet, dan komputer dengan sinkronisasi otomatis.",
   },
   {
-    question: "Apakah saya bisa berbagi file dengan orang lain?",
-    answer: `Tentu ${siteDetails.siteName} memungkinkan Anda untuk berbagi file melalui link privat maupun publik dengan mudah dan aman.`,
+    question: "Apakah saya bisa berbagi foto dengan orang lain?",
+    answer: `Tentu ${siteDetails.siteName} memungkinkan Anda untuk berbagi foto melalui link privat maupun publik dengan mudah dan aman.`,
   },
   {
     question: "Apakah ada batasan kapasitas penyimpanan?",

@@ -7,7 +7,7 @@ export const footerDetails: {
   telephone: string;
   socials: ISocials;
 } = {
-  subheading: "Kami hadir untuk mempermudah hidup Anda dengan solusi penyimpanan cloud yang aman, praktis, dan fleksibel, sehingga file penting selalu bisa diakses kapan saja dan di mana saja.",
+  subheading: "Kami hadir untuk mempermudah hidup Anda dengan solusi penyimpanan cloud yang aman, praktis, dan fleksibel, sehingga album penting selalu bisa diakses kapan saja dan di mana saja.",
   quickLinks: [
     {
       text: "Features",
